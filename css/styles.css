@@ -120,6 +120,8 @@ color: #404bbf;
   max-width: 1440px;
   margin-left: auto;
   margin-right: auto;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 .main-title {
   font-weight: 700;
@@ -420,5 +422,5 @@ color: #404bbf;
   background-color: #31d0aa;
 }
 .social-media-icon {
-  fill: #ffffff;
+  fill: #f4f4fd;
 }
